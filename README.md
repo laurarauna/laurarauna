@@ -2,6 +2,6 @@
 
 I'm Laura Mathias 👩‍💻     
 
-- Business Data Scientist              
+- Business Data Analyst              
 - More about me: [LinkedIn](https://www.linkedin.com/in/laurarauna/)
 
